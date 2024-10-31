@@ -1,4 +1,4 @@
-module github.com/rafaelmartins/usbhid
+module github.com/clockworkgr/usbhid
 
 go 1.19
 
